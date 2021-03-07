@@ -22,7 +22,7 @@ class ReadFile():
 
     def read_input_file(self):
         #empty df
-        single_data_frame = pd.DataFrame()
+        single_dataframe = pd.DataFrame()
         #current working directory
         input_dir = self.path
         #files in the current working directory
