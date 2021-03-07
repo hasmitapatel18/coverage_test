@@ -113,7 +113,7 @@ class Output():
             genes_covered_df.to_csv(output_file, index=False, header=False)
 
 
-#calling
+#Program start
 #setting the current working directory
 path = os.getcwd()
 manager_object=Manager(path)
