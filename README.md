@@ -8,7 +8,7 @@ pip3 install pandas
 
 # clone the GitHub repositiory 
 git clone https://github.com/hasmitapatel18/coverage_test.git
-# change directories to the NGS_coverage_report folder
+# change directories to the coverage_test folder
 cd coverage_test
 # run the find_genes.py script
 python3 find_genes.py
